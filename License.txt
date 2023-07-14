@@ -4,4 +4,4 @@ Apache
 
 adding new line
 
-conflict creation
+adding line in feature branch
